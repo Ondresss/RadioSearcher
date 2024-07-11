@@ -1,0 +1,7 @@
+{
+  "name": "RadioSearcher",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
